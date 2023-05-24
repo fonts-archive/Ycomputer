@@ -32,7 +32,7 @@ font-face
 
 ```
 @font-face {
-    font-family: 'VITRO CORE';
+    font-family: 'Ycomputer';
     font-weight: normal;
     font-style: normal;
     font-display: swap;
